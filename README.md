@@ -1,7 +1,8 @@
 # reading-notes
 
-**Document Content**  
--Brief Intro
+**Contents** 
+
+-Brief Intro  
 -About   
 -Growth Mindset  
 -newPages  
@@ -13,3 +14,23 @@ Introducing Adesewa, a budding web developer with a zest for life and a passion 
 ***
 
 #### About
+learning how to write markdown
+
+***
+
+#### Growth Mindset
+Having a growth mindset is like having a boundless garden of possibilities,  where the seeds of potential are nurtured and they bloom into magnificent flowers of achievements. It is a mindset that sees challenges as stepping stones, setbacks as opportunities for learning and effort as a rich soil that fuels personal growth. 
+
+1. I would embrace challenges as opportunities for growth.
+2. I would put in effort and persist in the face of setbacks.
+3. I will foster a thirst for learning and embrace feedback.
+
+By keeping these reminders in mind, I can cultivate a mindset that embraces growth, resilience, and continuous improvement.
+
+***
+
+You can view any of my gitHub repositories [HERE](https://github.com/adesewa293)
+
+***
+
+! [this is a thank you image] (https://www.istockphoto.com/vector/thank-you-speech-bubble-notification-template-vector-stock-illustration-with-text-gm1423678808-468615259)
