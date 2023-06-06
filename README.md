@@ -1,6 +1,6 @@
 # reading-notes
 
-## Adesewa's reading notes 📖
+## 📖 Adesewa's reading notes
 
 Reading notes for practicing markdown usage.
 
