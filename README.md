@@ -14,7 +14,7 @@ Introducing Adesewa, a budding web developer with a zest for life and a passion 
 ***
 
 #### About
-learning how to write markdown
+Markdown— Learning to transform plain text into stunning documents, blogs, and websites. Join me on this journey of mastering Markdown and unleashing my creativity. Let's dive in together!
 
 ***
 
